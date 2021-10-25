@@ -391,6 +391,9 @@ th {
   border: none;
   text-align: center;
 }
+#pokemon-trainer-table{
+  background-color:#4992ca;
+}
 .pokemon-trainers-table {
   border-spacing: 30px 70px;
 }
